@@ -1,5 +1,5 @@
 # Graph-it_Easy
-Matplotlib Graph With Tkinter Backend For Windows.
+Matplotlib Graph With Tkinter GUI For Windows.
 The Graph Can Be Configured Using The Provided Menus
 Or Code At Runtime. There Are Several Examples
 In The Test Class Which Also Includes An Example
